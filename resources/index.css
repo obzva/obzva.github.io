@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+li {
+    display: inline-block;
+}
+
 .link {
     color: brown;
 }
